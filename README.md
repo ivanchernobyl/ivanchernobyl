@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ivanchernobyl
+- 👀 I’m interested in embeded system
+- 🌱 I’m currently learning stm32/stm8 mcu
